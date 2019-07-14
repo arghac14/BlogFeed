@@ -12,7 +12,7 @@ const Navbar=()=>{
         <SignedOut/>
         </nav>
         </div>
-               
+
     )
 }
 export default Navbar;

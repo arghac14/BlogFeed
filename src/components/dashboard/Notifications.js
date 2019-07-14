@@ -4,7 +4,7 @@ class Notifications extends Component{
     render(){
         return(
             <div className="container">
-               <div><h4>Activity log:</h4></div>
+               <div><h5 className="center grey-text">Activity log:</h5></div>
             </div>
         )        
     }
