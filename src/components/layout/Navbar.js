@@ -6,7 +6,7 @@ const Navbar=()=>{
     return(
         <div className="navbar">
         <nav className="nav-wrapper blue darken -5">
-            <Link to='/' className="brand-logo"> BlogFeed</Link>
+           
         
         <SignedIn/>
         <SignedOut/>
