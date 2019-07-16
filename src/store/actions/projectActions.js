@@ -3,7 +3,7 @@ export const createProject=(project)=>{
         //async call to database
         const firestore=getFirestore()
         firestore.collection('projects').add({
-            ... project,
+            ...project,
             firstname: 'Argha',
             lastname: 'C',
             authorId: 123,

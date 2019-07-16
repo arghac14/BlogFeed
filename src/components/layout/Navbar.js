@@ -2,6 +2,7 @@ import React, {Component} from 'react';
 import {Link, NavLink} from 'react-router-dom';
 import SignedIn from './SignedIn'
 import SignedOut from './SignedOut'
+import {connect} from 'react-redux'
 const Navbar=()=>{
     return(
         <div className="navbar">
@@ -14,5 +15,8 @@ const Navbar=()=>{
         </div>
 
     )
+}
+const mapStateToProps=(state)=>{
+    
 }
 export default Navbar;
