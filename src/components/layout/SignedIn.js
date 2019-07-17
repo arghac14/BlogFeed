@@ -9,7 +9,7 @@ const SignedIn=()=>{
             <ul className="right">
                 <li><NavLink to='/createproject'>Add Content</NavLink></li>
                 <li><NavLink to='/'>Log Out</NavLink></li>
-                <li><NavLink to='/' className="btn btn-floating pink lighen-2"></NavLink></li>
+                
             </ul>
         </nav>
         </div>

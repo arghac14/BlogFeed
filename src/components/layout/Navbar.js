@@ -17,6 +17,8 @@ const Navbar=()=>{
     )
 }
 const mapStateToProps=(state)=>{
-    
+    return {
+
+    }
 }
-export default Navbar;
+export default connect(mapStateToProps)(Navbar);
