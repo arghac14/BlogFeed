@@ -8,6 +8,8 @@ You can find the most recent version of this guide [here](https://github.com/fac
 ##### 2. Run 'npm start' to run the app on localhost.
 
 ### SNAPSHOTS:
-[](https://github.com/arghac14/BlogFeed/blob/master/Snapshots/Capture0.JPG)
-[](https://github.com/arghac14/BlogFeed/blob/master/Snapshots/Capture1.JPG)
-[](https://github.com/arghac14/BlogFeed/blob/master/Snapshots/Capture2.JPG)
+![](https://github.com/arghac14/BlogFeed/blob/master/Snapshots/Capture0.JPG)
+#
+![](https://github.com/arghac14/BlogFeed/blob/master/Snapshots/Capture1.JPG)
+
+#![](https://github.com/arghac14/BlogFeed/blob/master/Snapshots/Capture3.JPG)
