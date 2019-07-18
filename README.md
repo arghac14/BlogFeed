@@ -11,5 +11,5 @@ You can find the most recent version of this guide [here](https://github.com/fac
 ![](https://github.com/arghac14/BlogFeed/blob/master/Snapshots/Capture0.JPG)
 #
 ![](https://github.com/arghac14/BlogFeed/blob/master/Snapshots/Capture1.JPG)
-
-#![](https://github.com/arghac14/BlogFeed/blob/master/Snapshots/Capture3.JPG)
+#
+![](https://github.com/arghac14/BlogFeed/blob/master/Snapshots/Capture3.JPG)
